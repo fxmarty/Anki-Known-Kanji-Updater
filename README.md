@@ -1,6 +1,6 @@
 # Anki Known Kanji Updater
 
-An add-on for Anki to facilitate the study of Japanese vocabulary cards, displaying furigana for the unknown kanji, but hiding them for the known ones
+An add-on for Anki to facilitate the study of Japanese vocabulary cards, displaying furigana for vocabulary words only when the kanji in the word are not learned yet
 
 ## Why this add-on
 
