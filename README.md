@@ -24,7 +24,7 @@ This add-on will work ONLY with this configuration.
 
 ## Getting Started
 
-Clone the repository and add it to your Anki 2.1 addons folder for fast use.
+Clone the repository and add it to your Anki 2.1 addons folder for fast use, or alternatively download a package of the add-on from https://ankiweb.net/shared/info/307544889
 
 In your vocabulary card type, add a field for writing if the kanji in the vocabulary word is known or not. You could call this field "kanjiKnown" for example, but this is changeable in the configuration. This field will be written in if the kanjis in the vocabulary word are known.
 
