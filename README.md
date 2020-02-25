@@ -50,6 +50,10 @@ For example, my front side for "Japanese to native language" card looks like thi
 
 Now, you can launch this add-on from the "Tools" menu to update the "knownKanji" field whenever you want, depending on the kanji you added to your kanji deck!
 
+## To do
+
+The way to access the Anki decks database is far far from ideal, feel free to improve if you want.
+
 ## License
 
 This project is licensed under the GNU GPL v3.0 License - see the [LICENSE.md](LICENSE.md) file for details.
